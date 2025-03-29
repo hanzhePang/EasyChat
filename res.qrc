@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/0x300a0a0 (1).png</file>
+        <file>picture/0x300a0a0.png</file>
+        <file>picture/05d64942_E402298_5b0a4b8b.png</file>
+        <file>picture/cat.png</file>
+        <file>picture/down man.png</file>
+        <file>picture/huojian.png</file>
+        <file>picture/ljt.png</file>
+        <file>picture/man.png</file>
+        <file>picture/pngimg.com - farmer_PNG21.png</file>
+        <file>picture/pngimg.com - policeman_PNG89074.png</file>
+        <file>picture/pngimg.com - soldier_PNG16079.png</file>
+        <file>picture/pngpai.com_bouquet-of-flowers-26943.png</file>
+        <file>picture/pngpai.com_doctors-and-nurses-40684.png</file>
+        <file>picture/R-C (1).png</file>
+        <file>picture/R-C.png</file>
+        <file>picture/super gays.png</file>
+        <file>picture/huojian.ico</file>
+        <file>report_pic.rc.txt</file>
+    </qresource>
+</RCC>
